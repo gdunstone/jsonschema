@@ -19,7 +19,7 @@ import (
 // Version is the JSON Schema version.
 // If extending JSON Schema with custom values use a custom URI.
 // RFC draft-wright-json-schema-00, section 6
-var Version = "http://json-schema.org/draft-04/schema#"
+var Version = "http://json-schema.org/draft-06/schema#"
 
 // Schema is the root schema.
 // RFC draft-wright-json-schema-00, section 4.5
